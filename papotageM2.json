@@ -547,34 +547,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":5,
-         "firstgid":26229,
-         "image":"src\/assets\/logoBlakeWorkAdventure.png",
-         "imageheight":64,
-         "imagewidth":186,
-         "margin":0,
-         "name":"logoBlakeWorkAdventure",
-         "spacing":0,
-         "tilecount":10,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":5,
-         "firstgid":26239,
-         "image":"src\/assets\/logoWhiteWorkAdventure.png",
-         "imageheight":64,
-         "imagewidth":186,
-         "margin":0,
-         "name":"logoWhiteWorkAdventure",
-         "spacing":0,
-         "tilecount":10,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":39,
-         "firstgid":26249,
+         "firstgid":26229,
          "image":"src\/assets\/Modern_Exteriors_Complete_Tileset_32x32.png",
          "imageheight":3392,
          "imagewidth":1248,
@@ -587,7 +561,7 @@
         }, 
         {
          "columns":16,
-         "firstgid":30383,
+         "firstgid":30363,
          "image":"src\/assets\/4_Bedroom_32x32.png",
          "imageheight":3424,
          "imagewidth":512,
@@ -595,6 +569,19 @@
          "name":"4_Bedroom_32x32",
          "spacing":0,
          "tilecount":1712,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":12,
+         "firstgid":32075,
+         "image":"src\/assets\/logos.png",
+         "imageheight":192,
+         "imagewidth":384,
+         "margin":0,
+         "name":"logos",
+         "spacing":0,
+         "tilecount":72,
          "tileheight":32,
          "tilewidth":32
         }],
