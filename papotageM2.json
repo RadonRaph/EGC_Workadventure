@@ -496,19 +496,6 @@
         {
          "columns":16,
          "firstgid":23397,
-         "image":"src\/assets\/22_Museum_32x32.png",
-         "imageheight":3904,
-         "imagewidth":512,
-         "margin":0,
-         "name":"22_Museum_32x32",
-         "spacing":0,
-         "tilecount":1952,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":25349,
          "image":"src\/assets\/23_Tevelision_and_Film_Studio_32x32.png",
          "imageheight":448,
          "imagewidth":512,
@@ -521,7 +508,7 @@
         }, 
         {
          "columns":16,
-         "firstgid":25573,
+         "firstgid":23621,
          "image":"src\/assets\/24_Ice_Cream_Shop_32x32.png",
          "imageheight":544,
          "imagewidth":512,
@@ -534,7 +521,7 @@
         }, 
         {
          "columns":16,
-         "firstgid":25845,
+         "firstgid":23893,
          "image":"src\/assets\/25_Shooting_Range_32x32.png",
          "imageheight":160,
          "imagewidth":512,
@@ -547,7 +534,7 @@
         }, 
         {
          "columns":16,
-         "firstgid":25925,
+         "firstgid":23973,
          "image":"src\/assets\/26_Condominium_32x32.png",
          "imageheight":608,
          "imagewidth":512,
@@ -560,7 +547,7 @@
         }, 
         {
          "columns":39,
-         "firstgid":26229,
+         "firstgid":24277,
          "image":"src\/assets\/Modern_Exteriors_Complete_Tileset_32x32.png",
          "imageheight":3392,
          "imagewidth":1248,
@@ -573,7 +560,7 @@
         }, 
         {
          "columns":16,
-         "firstgid":30363,
+         "firstgid":28411,
          "image":"src\/assets\/4_Bedroom_32x32.png",
          "imageheight":3424,
          "imagewidth":512,
@@ -586,7 +573,7 @@
         }, 
         {
          "columns":12,
-         "firstgid":32075,
+         "firstgid":30123,
          "image":"src\/assets\/logos.png",
          "imageheight":192,
          "imagewidth":384,
