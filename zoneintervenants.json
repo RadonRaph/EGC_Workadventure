@@ -12,7 +12,7 @@
                  "name":"Collisions_walls",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":100,
                  "x":0,
                  "y":0
@@ -24,7 +24,7 @@
                  "name":"Collisions_furniture",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":100,
                  "x":0,
                  "y":0
@@ -39,10 +39,10 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/radonraph.github.io\/EGC_Workadventure\/map.json#From_intervenants"
+                         "value":"https:\/\/play.workadventu.re\/@\/cnam-enjmin\/egc\/accueil#From_intervenants"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":100,
                  "x":0,
                  "y":0
@@ -54,7 +54,7 @@
                  "name":"start",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":100,
                  "x":0,
                  "y":0
@@ -62,7 +62,7 @@
          "name":"System",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 

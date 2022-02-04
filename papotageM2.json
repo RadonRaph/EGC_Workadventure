@@ -42,7 +42,7 @@
                  "name":"Collisions_walls",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":100,
                  "x":0,
                  "y":0
@@ -62,7 +62,7 @@
          "name":"System",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
