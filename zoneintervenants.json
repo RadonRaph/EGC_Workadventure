@@ -27,7 +27,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/cnam-enjmin\/egc\/accueil#From_intervenants"
+                         "value":"https:\/\/radonraph.github.io\/EGC_Workadventure\/map.json#From_intervenants"
                         }],
                  "type":"tilelayer",
                  "visible":true,
