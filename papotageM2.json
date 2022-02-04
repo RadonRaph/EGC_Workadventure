@@ -12,7 +12,7 @@
                  "name":"start",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":100,
                  "x":0,
                  "y":0
@@ -30,7 +30,7 @@
                          "value":"https:\/\/play.workadventu.re\/@\/cnam-enjmin\/egc\/accueil#From_papotage"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":100,
                  "x":0,
                  "y":0
@@ -42,7 +42,7 @@
                  "name":"Collisions_walls",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":100,
                  "x":0,
                  "y":0
@@ -54,7 +54,7 @@
                  "name":"Collisions_furniture",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":100,
                  "x":0,
                  "y":0
