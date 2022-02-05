@@ -211,11 +211,6 @@
                                  "value":"doorOpened"
                                 }, 
                                 {
-                                 "name":"tag",
-                                 "type":"string",
-                                 "value":"orga"
-                                }, 
-                                {
                                  "name":"zone",
                                  "type":"string",
                                  "value":"doorstep1"
@@ -288,7 +283,7 @@
                                 {
                                  "name":"default",
                                  "type":"bool",
-                                 "value":true
+                                 "value":false
                                 }, 
                                 {
                                  "name":"door",
