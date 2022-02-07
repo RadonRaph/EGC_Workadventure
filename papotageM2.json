@@ -210,6 +210,17 @@
  "nextlayerid":19,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Enjmin Game Conferences"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Zone papotage"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -313,6 +324,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"1_Generic_32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"LimeZu"
+                }],
          "spacing":0,
          "tilecount":1248,
          "tileheight":32,

@@ -360,12 +360,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":"Enjmin Game Conferences"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"Welcome to the Enjmin Game Conferences !"
         }, 
         {
          "name":"mapImage",
@@ -380,7 +380,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Accueil EGC"
         }, 
         {
          "name":"script",

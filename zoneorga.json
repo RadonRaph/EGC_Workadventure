@@ -211,7 +211,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Welcome to the Enjmin Game Conferences !"
+         "value":"Cc les petits bg"
         }, 
         {
          "name":"mapImage",
@@ -226,7 +226,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"EGC accueil"
+         "value":"EGC "
         }, 
         {
          "name":"script",
