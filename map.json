@@ -373,11 +373,6 @@
          "value":"map.png"
         }, 
         {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
-        }, 
-        {
          "name":"mapName",
          "type":"string",
          "value":"Accueil EGC"
