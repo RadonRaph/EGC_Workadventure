@@ -478,6 +478,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"1_Generic_32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"LimeZu"
+                }],
          "spacing":0,
          "tilecount":1248,
          "tileheight":32,
