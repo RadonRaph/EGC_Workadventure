@@ -906,6 +906,12 @@
          "imagewidth":1248,
          "margin":0,
          "name":"Modern_Exteriors_Complete_Tileset_32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"LimeZu"
+                }],
          "spacing":0,
          "tilecount":4134,
          "tileheight":32,
