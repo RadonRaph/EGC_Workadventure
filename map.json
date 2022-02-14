@@ -399,28 +399,12 @@
          "objects":[
                 {
                  "height":19,
-                 "id":20,
-                 "name":"confLabel",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"{{{confName}}}",
-                     "wrap":true
-                    },
-                 "type":"text",
-                 "visible":true,
-                 "width":108,
-                 "x":762.666666666667,
-                 "y":257.833333333333
-                }, 
-                {
-                 "height":19,
                  "id":21,
                  "name":"version",
                  "rotation":0,
                  "text":
                     {
-                     "text":"V1.0.1",
+                     "text":"V1.0.2",
                      "wrap":true
                     },
                  "type":"text",
