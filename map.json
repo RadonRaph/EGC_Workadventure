@@ -400,14 +400,14 @@
                 {
                  "height":19,
                  "id":20,
-                 "name":"",
+                 "name":"confLabel",
                  "rotation":0,
                  "text":
                     {
                      "text":"{{{confName}}}",
                      "wrap":true
                     },
-                 "type":"",
+                 "type":"text",
                  "visible":true,
                  "width":108,
                  "x":762.666666666667,
